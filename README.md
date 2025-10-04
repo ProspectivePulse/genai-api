@@ -1,3 +1,8 @@
+# ML Service with FastAPI
+
+[![CI/CD](https://github.com/ProspectivePulse/genai-api/actions/workflows/ci.yml/badge.svg)](https://github.com/ProspectivePulse/genai-api/actions/workflows/ci.yml)
+
+A minimal production-style ML service built with FastAPI, Docker, and CI/CD.
 
 # GenAI API Starter with FastAPI
 
